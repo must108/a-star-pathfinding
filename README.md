@@ -1,5 +1,5 @@
-# A* Pathfinding Algorithm
+# A* Pathfinding Visualization
 
-a* pathfinding algorithm that finds the shortest path from a starting node to a ending node almost instantly.
+a* pathfinding visualization that finds the shortest path from a starting node to a ending node almost instantly.
 
 ![pathfinding gif](assets/pathfinding.gif)
